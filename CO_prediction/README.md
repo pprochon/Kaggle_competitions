@@ -1,15 +1,19 @@
+ ## Case: CO prediction (4th place)
+ Competition prepared by [DataWorkshop](https://dataworkshop.eu/)
  
+ ### Task
+ Prediction of CO emission during energy production.
  
- ## 🕵️‍♀️ Feature description 
+ ### Feature description:
 
-`AT` - Ambient temperature C 
-`AP` - Ambient pressure mbar 
-`AH` - Ambient humidity %
-`AFDP` - Air filter difference pressure mbar 
-`GTEP` - Gas turbine exhaust pressure mbar 
-`TIT` - Turbine inlet temperature C 
-`TAT` - Turbine after temperature C 
-`CDP` - Compressor discharge pressure mbar
-`TEY` - Turbine energy yield MWH 
-`NOx` - Nitrogen oxides mg/m3
-`CO` - Carbon monoxide mg/m3 (zmienna docelowa)
+`AT` - Ambient temperature C <br/>
+`AP` - Ambient pressure mbar <br/>
+`AH` - Ambient humidity %<br/>
+`AFDP` - Air filter difference pressure mbar <br/>
+`GTEP` - Gas turbine exhaust pressure mbar <br/>
+`TIT` - Turbine inlet temperature C <br/>
+`TAT` - Turbine after temperature C <br/>
+`CDP` - Compressor discharge pressure mbar<br/>
+`TEY` - Turbine energy yield MWH <br/>
+`NOx` - Nitrogen oxides mg/m3<br/>
+`CO` - Carbon monoxide mg/m3 (**_Target value_**)
