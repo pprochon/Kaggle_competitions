@@ -1,7 +1,7 @@
  ## Case: CO prediction (4th place)
- Competition prepared by [DataWorkshop](https://dataworkshop.eu/)
+ Competition prepared by [DataWorkshop](https://dataworkshop.eu/) for [Practical DS & ML](https://dataworkshop.eu/pl/practical-machine-learning)
  
- ### Task
+ ### Task:
  Prediction of CO emission during energy production.
  
  ### Feature description:
