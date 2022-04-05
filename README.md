@@ -1,4 +1,3 @@
-# Kaggle competitions
  ## 🕵️‍♀️ Feature description 
 
 - `AT` - Ambient temperature C 
